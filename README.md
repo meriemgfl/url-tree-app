@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # URL Tree
 
 A desktop app that organizes saved URLs into a tree of folders based on SEO
@@ -20,5 +19,3 @@ folder, and the tree learns from each placement.
 4. `cd electron-shell && npm install && npm start`
 
 Electron starts `php artisan serve` for you, so don't run it separately.
-
->>>>>>> origin/main
